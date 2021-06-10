@@ -1,0 +1,56 @@
+Javascript
+--Programming exercises
+https://www.w3resource.com/javascript-exercises/   -with solutions
+https://www.w3schools.com/
+--code formatting
+https://www.10bestdesign.com/dirtymarkup/
+--books (older but still very relevant, just older syntax, which is still used)
+[How to do everything with] Scott Duffy - How to do Everything with JavaScript (2003, McGraw-Hill_Osborne)
+[Wrox beginning guides] Paul Wilton, Jeremy McPeak - Beginning JavaScript (2007, Wrox_Wiley Pub)
+Emily A. Vander Veer - JavaScript For Dummies Quick Reference (1997, For Dummies)
+Jonathan A. Watt, Andrew H. Watt, Jinjer Simon - Sams teach yourself JavaScript in 21 days (2002, Sams)
+Shelley Powers - Learning JavaScript-O'Reilly Media (2006)
+Stoyan Stefanov - Object-oriented JavaScript_ create scalable, reusable high-quality JavaScript applications, and libraries (2008, Packt Publishing)
+--IDE's
+Visual Studio Code or Visual Studio (VS code is a bit easier for plain websites)
+Jetbrains Webstorm (free for students) + Resharper (plugin, very useful and free for students)
+Brackets.io (extremely light, good for beginners)
+
+CSS/HTML
+https://www.w3schools.com/  (better to search in google, something like "css image rounded corners" -> w3schools is normally at top of search results
+https://www.layoutit.com/build  -- good for creating basic bootstrap layout/structure 
+--code formatting
+https://www.10bestdesign.com/dirtymarkup/
+--Programming exercises
+https://www.w3resource.com/   -with solutions and online editors
+--website checks
+Use lighthouse with live server (have options in most ides)
+Used to be many that were free and provided extensive checks. They all seem to be paid services now
+https://validator.w3.org/
+--accessibility
+https://www.w3.org/WAI/standards-guidelines/
+https://www.w3.org/WAI/ER/tools/
+Also some already mentioned in the courses on OC
+--IDE's
+Visual Studio Code or Visual Studio (VS code is a bit easier for plain websites)
+Jetbrains Webstorm (free for students) + Resharper (plugin, very useful and free for students)
+Brackets.io (extremely light, good for beginners)
+
+
+C# .NET
+--books
+Andrew Troelsen, Philip Japikse - Pro C# 7 with .NET and .NET Core Apress (2017)
+Roy Osherove - The Art of Unit Testing, 2nd Edition_ with examples in C# Manning (2013)
+--online compiler
+https://dotnetfiddle.net/   --good to try snippets of code without creating a project
+--IDE's
+Visual Studio + Resharper (plugin, very useful and free for students), some like Visual Studio Code
+You need a textbook to learn all the features and tricks (There are many)
+--Code snippets
+I have some that I share with my students, but they are specific to particular projects, but can share
+--links
+Its really not hard to find online resources for .NET
+Can find some interesting blogs here, but not for beginners https://weblog.west-wind.com/
+Testing
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/testing-and-debugging/unit-testing-controllers-in-web-api
+basic testing overview - https://www.guru99.com/integration-testing.html
