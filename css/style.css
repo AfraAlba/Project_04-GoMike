@@ -651,7 +651,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
 }
 
 .container {
@@ -677,7 +676,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
