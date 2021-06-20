@@ -728,8 +728,24 @@ h1 {
 
 h4 {
     color: #333333!important;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
 }
 
+h5 {
+    color: #333333!important;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h6 {
+    color: #333333!important;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+}
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
