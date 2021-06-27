@@ -689,7 +689,6 @@ p {
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 1.0em;
     font-weight: 700;
 }
 
@@ -736,7 +735,7 @@ h5 {
 
 h6 {
     color: #333333!important;
-    font-size: 18px;
+    font-size: 25px;
     font-weight: 400;
     font-style: normal;
 }
