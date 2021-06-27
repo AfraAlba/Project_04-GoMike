@@ -64,8 +64,10 @@ abbr[title] {
 }
 
 b,
-strong {
-    font-weight: 700
+strong { 
+    color: #333333!important;
+    font-size: 18px;
+    font-style: italic; 
 }
 
 dfn {
